@@ -1,0 +1,207 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc01               { /* Common */
+	font            : italic 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	}
+.cc02               { /* Common */
+	font            : italic bold 18pt 'Viner Hand ITC';
+	color           : #3e5281;
+	}
+.cc03               { /* Common */
+	border          :   0.00pt none #ececec;
+	}
+span#e22            { /* algo1003011.gif */
+	background      : transparent url(algo1003011.gif) no-repeat top left;
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   0.00pt;
+	width           : 103.50pt;
+	height          :  45.00pt;
+	}
+span#e21            { /* algo1003010.gif */
+	clip            : rect(0.00pt,459.00pt,6.75pt,0.00pt);
+	background      : transparent url(algo1003010.gif) no-repeat top left;
+	position        : absolute;
+	left            : 105.00pt;
+	top             : 149.25pt;
+	width           : 459.00pt;
+	height          :   6.75pt;
+	}
+span#e20            { /* algo1003009.gif */
+	clip            : rect(0.00pt,459.00pt,15.00pt,0.00pt);
+	background      : transparent url(algo1003009.gif) no-repeat top left;
+	position        : absolute;
+	left            : 105.00pt;
+	top             :  45.00pt;
+	width           : 459.00pt;
+	height          :  15.00pt;
+	}
+span#e19            { /* algo1003008.jpg */
+	background      : transparent url(algo1003008.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   1.50pt;
+	top             :  60.00pt;
+	width           : 562.50pt;
+	height          :  89.25pt;
+	}
+h2#e18              { /* Say NO TO Drugs */
+	text-align      : right;
+	position        : absolute;
+	left            : 407.25pt;
+	top             : 120.00pt;
+	width           : 146.25pt;
+	height          :  24.00pt;
+	}
+h3#e17              { /* Symptoms and signs of dr... */
+	text-align      : center;
+	position        : absolute;
+	left            : 132.00pt;
+	top             : 344.25pt;
+	width           : 315.75pt;
+	height          :  20.25pt;
+	}
+div#e16             { /* In order to be diagnosed... */
+	text-align      : left;
+	position        : absolute;
+	left            : 130.50pt;
+	top             : 374.25pt;
+	width           : 422.25pt;
+	height          : 501.75pt;
+	}
+img#e15             { /* bus20_home_on.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            : 252.00pt;
+	top             :  45.00pt;
+	width           :  32.25pt;
+	height          :  15.00pt;
+	}
+img#e14             { /* algo1003007.jpg */
+	position        : absolute;
+	left            : 297.75pt;
+	top             :  45.00pt;
+	width           :  57.00pt;
+	height          :  16.50pt;
+	}
+div#e13             { /* What types of drugs are ... */
+	position        : absolute;
+	left            : 453.00pt;
+	top             : 217.50pt;
+	width           : 103.50pt;
+	height          :  26.25pt;
+	}
+div#e12             { /* Contents */
+	position        : absolute;
+	left            : 453.00pt;
+	top             : 180.00pt;
+	width           :  99.75pt;
+	height          :  31.50pt;
+	}
+div#e11             { /* Symptoms and signs of dr... */
+	position        : absolute;
+	left            : 453.00pt;
+	top             : 247.50pt;
+	width           : 103.50pt;
+	height          :  38.25pt;
+	}
+div#e10             { /* What happens to your bra... */
+	position        : absolute;
+	left            : 453.00pt;
+	top             : 285.00pt;
+	width           : 103.50pt;
+	height          :  38.25pt;
+	}
+div#e9              { /* Diagnosis Of Addiction */
+	position        : absolute;
+	left            : 453.00pt;
+	top             : 322.50pt;
+	width           : 103.50pt;
+	height          :  14.25pt;
+	}
+img#e8              { /* algo1003006.jpg */
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  44.25pt;
+	width           : 109.50pt;
+	height          : 112.50pt;
+	}
+h6#e7               { /* Prevention */
+	font            : italic 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 453.00pt;
+	top             : 339.75pt;
+	width           : 103.50pt;
+	height          :  14.25pt;
+	}
+a#a7                { /* Prevention */
+	font            : italic 10pt 'Times New Roman', Book, Georgia, serif;
+	}
+span#e6             { /* algo1003005.jpg */
+	background      : transparent url(algo1003005.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             : 171.00pt;
+	width           : 112.50pt;
+	height          : 114.00pt;
+	}
+span#e5             { /* algo1003004.jpg */
+	background      : transparent url(algo1003004.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 106.50pt;
+	top             : 177.00pt;
+	width           : 351.75pt;
+	height          : 155.25pt;
+	}
+img#e4              { /* algo1003003.jpg */
+	position        : absolute;
+	left            : 362.25pt;
+	top             :  46.50pt;
+	width           :  63.00pt;
+	height          :  16.50pt;
+	}
+h6#e3               { /* Drugs Consumpsion */
+	font            : italic 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 454.50pt;
+	top             : 358.50pt;
+	width           : 103.50pt;
+	height          :  14.25pt;
+	}
+a#a3                { /* Drugs Consumpsion */
+	font            : italic 10pt 'Times New Roman', Book, Georgia, serif;
+	}
+img#e2              { /* algo1003002.jpg */
+	position        : absolute;
+	left            : 443.25pt;
+	top             :  46.50pt;
+	width           :  30.75pt;
+	height          :  16.50pt;
+	}
+img#e1              { /* algo1003001.jpg */
+	position        : absolute;
+	left            : 491.25pt;
+	top             :  46.50pt;
+	width           :  61.50pt;
+	height          :  16.50pt;
+	}
+div#page            { /* Page Holder */
+	background-image: url(back_bus20.gif);
+	position        : relative;
+	width           : 570.00pt;
+	height          : 900.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/

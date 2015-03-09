@@ -1,0 +1,165 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc01               { /* Common */
+	border          :   0.00pt none #ececec;
+	}
+h4#e18              { /* Links */
+	text-align      : left;
+	position        : absolute;
+	left            : 120.00pt;
+	top             : 165.00pt;
+	width           : 150.00pt;
+	height          :  22.50pt;
+	}
+h5#e17              { /* http://www.archive.india... */
+	text-align      : left;
+	position        : absolute;
+	left            : 163.50pt;
+	top             : 227.25pt;
+	width           : 319.50pt;
+	height          :  29.25pt;
+	}
+span#e16            { /* algo1010012.gif */
+	clip            : rect(0.00pt,459.00pt,6.75pt,0.00pt);
+	background      : transparent url(algo1010012.gif) no-repeat top left;
+	position        : absolute;
+	left            : 105.00pt;
+	top             : 149.25pt;
+	width           : 459.00pt;
+	height          :   6.75pt;
+	}
+span#e15            { /* algo1010011.gif */
+	clip            : rect(0.00pt,459.00pt,15.00pt,0.00pt);
+	background      : transparent url(algo1010011.gif) no-repeat top left;
+	position        : absolute;
+	left            : 105.00pt;
+	top             :  45.00pt;
+	width           : 459.00pt;
+	height          :  15.00pt;
+	}
+span#e14            { /* algo1010010.jpg */
+	background      : transparent url(algo1010010.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   1.50pt;
+	top             :  60.00pt;
+	width           : 562.50pt;
+	height          :  89.25pt;
+	}
+span#e13            { /* algo1010009.gif */
+	background      : transparent url(algo1010009.gif) no-repeat top left;
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   0.00pt;
+	width           : 103.50pt;
+	height          :  45.00pt;
+	}
+span#e12            { /* bus20_link_on.gif */
+	clip            : rect(0.00pt,31.50pt,15.00pt,0.00pt);
+	background      : transparent url(bus20_link_on.gif) no-repeat top left;
+	position        : absolute;
+	left            : 445.50pt;
+	top             :  45.00pt;
+	width           :  31.50pt;
+	height          :  15.00pt;
+	}
+img#e11             { /* algo1010007.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            : 252.00pt;
+	top             :  45.00pt;
+	width           :  32.25pt;
+	height          :  15.00pt;
+	}
+img#e10             { /* algo1010006.jpg */
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  44.25pt;
+	width           : 109.50pt;
+	height          : 112.50pt;
+	}
+h5#e9               { /* http://www.karmayog.com/... */
+	text-align      : left;
+	position        : absolute;
+	left            : 164.25pt;
+	top             : 276.00pt;
+	width           : 319.50pt;
+	height          :  29.25pt;
+	}
+h5#e8               { /* http://www.drugabuse.gov... */
+	text-align      : left;
+	position        : absolute;
+	left            : 164.25pt;
+	top             : 325.50pt;
+	width           : 319.50pt;
+	height          :  29.25pt;
+	}
+h5#e7               { /* https://ncadd.org/learn-... */
+	text-align      : left;
+	position        : absolute;
+	left            : 165.00pt;
+	top             : 381.75pt;
+	width           : 319.50pt;
+	height          :  33.00pt;
+	}
+h2#e6               { /* Say NO To Drugs */
+	text-align      : right;
+	position        : absolute;
+	left            : 407.25pt;
+	top             : 120.00pt;
+	width           : 146.25pt;
+	height          :  24.00pt;
+	}
+span#e5             { /* algo1010005.jpg */
+	background      : transparent url(algo1010005.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             : 171.00pt;
+	width           : 112.50pt;
+	height          : 114.00pt;
+	}
+img#e4              { /* algo1010004.jpg */
+	position        : absolute;
+	left            : 360.00pt;
+	top             :  45.75pt;
+	width           :  63.00pt;
+	height          :  16.50pt;
+	}
+img#e3              { /* algo1010003.jpg */
+	position        : absolute;
+	left            : 297.75pt;
+	top             :  45.00pt;
+	width           :  57.00pt;
+	height          :  16.50pt;
+	}
+img#e2              { /* algo1010002.jpg */
+	position        : absolute;
+	left            : 443.25pt;
+	top             :  46.50pt;
+	width           :  30.75pt;
+	height          :  16.50pt;
+	}
+img#e1              { /* algo1010001.jpg */
+	position        : absolute;
+	left            : 491.25pt;
+	top             :  46.50pt;
+	width           :  61.50pt;
+	height          :  16.50pt;
+	}
+div#page            { /* Page Holder */
+	background-image: url(back_bus20.gif);
+	position        : relative;
+	width           : 570.00pt;
+	height          : 570.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/

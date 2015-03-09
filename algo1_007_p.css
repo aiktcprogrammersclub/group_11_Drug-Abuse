@@ -1,0 +1,237 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc16               { /* Common */
+	border          :   0.00pt none #ececec;
+	}
+span#e24            { /* algo1006011.gif */
+	clip            : rect(0.00pt,459.00pt,6.75pt,0.00pt);
+	background      : transparent url(algo1006011.gif) no-repeat top left;
+	position        : absolute;
+	left            : 105.00pt;
+	top             : 149.25pt;
+	width           : 459.00pt;
+	height          :   6.75pt;
+	}
+span#e23            { /* algo1002009.gif */
+	clip            : rect(0.00pt,459.00pt,15.00pt,0.00pt);
+	background      : transparent url(algo1002009.gif) no-repeat top left;
+	position        : absolute;
+	left            : 105.00pt;
+	top             :  45.00pt;
+	width           : 459.00pt;
+	height          :  15.00pt;
+	}
+span#e22            { /* algo1002008.jpg */
+	background      : transparent url(algo1002008.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   1.50pt;
+	top             :  60.00pt;
+	width           : 562.50pt;
+	height          :  89.25pt;
+	}
+h2#e21              {
+	text-align      : right;
+	position        : absolute;
+	left            : 171.75pt;
+	top             : 120.00pt;
+	width           : 381.75pt;
+	height          :  24.00pt;
+	}
+span#e20            { /* algo1002011.gif */
+	background      : transparent url(algo1002011.gif) no-repeat top left;
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   0.00pt;
+	width           : 103.50pt;
+	height          :  45.00pt;
+	}
+img#e19             { /* algo1007010.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            : 445.50pt;
+	top             :  45.00pt;
+	width           :  31.50pt;
+	height          :  15.00pt;
+	}
+img#e18             { /* algo1006009.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            : 252.00pt;
+	top             :  45.00pt;
+	width           :  32.25pt;
+	height          :  15.00pt;
+	}
+img#e17             { /* algo1002007.jpg */
+	position        : absolute;
+	left            : 297.75pt;
+	top             :  45.00pt;
+	width           :  57.00pt;
+	height          :  16.50pt;
+	}
+img#e16             { /* algo1006007.jpg */
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  44.25pt;
+	width           : 109.50pt;
+	height          : 112.50pt;
+	}
+h2#e15              { /* Say NO To Drugs */
+	text-align      : right;
+	position        : absolute;
+	left            : 407.25pt;
+	top             : 120.00pt;
+	width           : 146.25pt;
+	height          :  24.00pt;
+	}
+h6#e14              { /* What types of drugs are ... */
+	font            : italic 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 452.25pt;
+	top             : 221.25pt;
+	width           : 103.50pt;
+	height          :  26.25pt;
+	}
+a#a14               { /* What types of drugs are ... */
+	font            : italic 10pt 'Times New Roman', Book, Georgia, serif;
+	}
+h5#e13              { /* Contents */
+	font            : italic bold 18pt 'Viner Hand ITC';
+	text-align      : left;
+	position        : absolute;
+	left            : 450.00pt;
+	top             : 189.75pt;
+	width           :  99.75pt;
+	height          :  31.50pt;
+	}
+h6#e12              { /* Symptoms and signs of dr... */
+	font            : italic 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 455.25pt;
+	top             : 253.50pt;
+	width           : 103.50pt;
+	height          :  38.25pt;
+	}
+a#a12               { /* Symptoms and signs of dr... */
+	font            : italic 10pt 'Times New Roman', Book, Georgia, serif;
+	}
+h6#e11              { /* What happens to your bra... */
+	font            : italic 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 456.00pt;
+	top             : 295.50pt;
+	width           : 103.50pt;
+	height          :  38.25pt;
+	}
+a#a11               { /* What happens to your bra... */
+	font            : italic 10pt 'Times New Roman', Book, Georgia, serif;
+	}
+h6#e10              { /* Diagnosis Of Addiction */
+	font            : italic 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 458.25pt;
+	top             : 339.75pt;
+	width           : 103.50pt;
+	height          :  14.25pt;
+	}
+a#a10               { /* Diagnosis Of Addiction */
+	font            : italic 10pt 'Times New Roman', Book, Georgia, serif;
+	}
+h3#e9               { /* Prevention */
+	text-align      : center;
+	position        : absolute;
+	left            : 129.75pt;
+	top             : 327.00pt;
+	width           : 315.75pt;
+	height          :  20.25pt;
+	}
+div#e8              { /* A number of different pr... */
+	text-align      : left;
+	position        : absolute;
+	left            : 126.00pt;
+	top             : 369.75pt;
+	width           : 325.50pt;
+	height          : 191.25pt;
+	}
+h6#e7               { /* Prevention */
+	font            : italic 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 458.25pt;
+	top             : 360.00pt;
+	width           : 103.50pt;
+	height          :  14.25pt;
+	}
+a#a7                { /* Prevention */
+	font            : italic 10pt 'Times New Roman', Book, Georgia, serif;
+	}
+span#e6             { /* algo1001004.jpg */
+	background      : transparent url(algo1001004.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             : 171.00pt;
+	width           : 112.50pt;
+	height          : 114.00pt;
+	}
+span#e5             { /* algo1007004.jpg */
+	background      : transparent url(algo1007004.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 191.25pt;
+	top             : 168.75pt;
+	width           : 194.25pt;
+	height          : 145.50pt;
+	}
+img#e4              { /* algo1002003.jpg */
+	position        : absolute;
+	left            : 362.25pt;
+	top             :  46.50pt;
+	width           :  63.00pt;
+	height          :  16.50pt;
+	}
+h6#e3               { /* Drugs Consumpsion */
+	font            : italic 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 458.25pt;
+	top             : 377.25pt;
+	width           : 103.50pt;
+	height          :  14.25pt;
+	}
+a#a3                { /* Drugs Consumpsion */
+	font            : italic 10pt 'Times New Roman', Book, Georgia, serif;
+	}
+img#e2              { /* algo1007002.jpg */
+	position        : absolute;
+	left            : 443.25pt;
+	top             :  46.50pt;
+	width           :  30.75pt;
+	height          :  16.50pt;
+	}
+img#e1              { /* algo1002001.jpg */
+	position        : absolute;
+	left            : 491.25pt;
+	top             :  46.50pt;
+	width           :  61.50pt;
+	height          :  16.50pt;
+	}
+div#page            { /* Page Holder */
+	background-image: url(back_bus20.gif);
+	position        : relative;
+	width           : 570.00pt;
+	height          : 570.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/

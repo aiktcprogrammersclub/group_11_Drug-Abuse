@@ -1,0 +1,256 @@
+/*--- Avanquest WebEasy Document Style ---*/
+
+*                   { /* All Elements */
+	margin          : 0px;
+	padding         : 0px;
+	}
+a:link              { /* Document Style */
+	color           : #000000;
+	text-decoration :none;
+	}
+a:visited           { /* Document Style */
+	color           : #4e617e;
+	text-decoration :none;
+	}
+a:hover             { /* Document Style */
+	color           : #9f6562;
+	text-decoration :none;
+	}
+a:active            { /* Active Links */
+	color           : #9f6562;
+	}
+ol,ul               { /* All Lists */
+	margin          : 1em;
+	padding-left    : 2em;
+	}
+p                   { /* All Paragraphs */
+	margin-bottom   : 1em;
+	}
+a.navigation:link   {
+	color           : #485d72;
+	}
+a.navigation:visited{
+	color           : #607d9b;
+	}
+a.navigation:hover  {
+	color           : #9f6562;
+	}
+a.panel:link        {
+	color           : #52527a;
+	}
+a.panel:visited     {
+	color           : #000000;
+	}
+a.panel:hover       {
+	color           : #9f6562;
+	}
+table.ct07          { /* Document Style */
+	color           : #000000;
+	font            : 9pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	background-color: #ffffff;
+	}
+table.ct07 caption  { /* Document Style */
+	color           : #000000;
+	font            : 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	background-color: #ffffff;
+	}
+table.ct07 td       { /* Document Style */
+	color           : #000000;
+	font            : 9pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+table.ct07 th       { /* Document Style */
+	color           : #000000;
+	font            : 9pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+table.ct07 .ch07 th { /* Document Style */
+	color           : #000000;
+	font            : 9pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	background-color: #ffffff;
+	}
+.address,address    {
+	color           : #000000;
+	font            : 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.citation,cite      {
+	color           : #000000;
+	font            : italic 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.code,code          {
+	color           : #000000;
+	font            : 10pt 'Courier New', monospace;
+	}
+.deco               {
+	color           : #a7bed5;
+	background-color: #a7bed5;
+	}
+.emphasis,em        {
+	color           : #000000;
+	font            : 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.footer             {
+	color           : #000000;
+	font            : 8pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	text-align      : center;
+	}
+.footer_box         {
+	color           : #d8d8d8;
+	background-color: #d8d8d8;
+	}
+.form_button        {
+	color           : #000000;
+	font            : 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.form_input         {
+	color           : #000000;
+	font            : 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.form_label         {
+	color           : #000000;
+	font            : 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.form_legend        {
+	color           : #3e5281;
+	font            : bold 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.form_set           {
+	color           : #000000;
+	font            : 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	background-color: #ffffff;
+	}
+.header             {
+	color           : #3e5266;
+	font            : 20pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.header_box         {
+	color           : #ffffff;
+	background-color: #ffffff;
+	}
+.heading1,h1        {
+	color           : #000000;
+	font            : 22pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.heading2,h2        {
+	color           : #9f6562;
+	font            : 18pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.heading3,h3        {
+	color           : #c16562;
+	font            : 14pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.heading4,h4        {
+	color           : #000000;
+	font            : 12pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.heading5,h5        {
+	color           : #3e5266;
+	font            : bold 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.heading6,h6        {
+	color           : #000000;
+	font            : bold 8pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.info               {
+	color           : #000000;
+	font            : 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.info_box           {
+	color           : #f0f0f0;
+	background-color: #f0f0f0;
+	}
+.info_tag           {
+	color           : #3e5266;
+	font            : bold 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.item               {
+	color           : #000000;
+	font            : 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.item_box           {
+	color           : #eae8e5;
+	background-color: #eae8e5;
+	}
+.item_tag           {
+	color           : #3e5266;
+	font            : bold 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.logo               {
+	color           : #000000;
+	font            : 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.logo_box           {
+	color           : #f0f0f0;
+	background-color: #f0f0f0;
+	}
+.logo_tag           {
+	color           : #000000;
+	font            : bold 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.navigation         {
+	color           : #3e5266;
+	font            : 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.navigation_box     {
+	color           : #a7bed5;
+	background-color: #a7bed5;
+	}
+.navigation_tag     {
+	color           : #3e5266;
+	font            : bold 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.news               {
+	color           : #000000;
+	font            : 8pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.news a             {
+	background-color: transparent;
+	border          : 0px;
+	padding         : 0px;
+	}
+.news_box           {
+	color           : #dadada;
+	background-color: #dadada;
+	}
+.news_tag           {
+	color           : #3e5281;
+	font            : bold 8pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.page               {
+	color           : #000000;
+	font            : 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	background-color: #ffffff;
+	}
+.page_box           {
+	color           : #f3f3f3;
+	background-color: #f3f3f3;
+	}
+.page_tag           {
+	color           : #3e5266;
+	font            : 16pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.panel              {
+	color           : #3e5266;
+	font            : 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.panel_box          {
+	color           : #a7bed5;
+	background-color: #a7bed5;
+	}
+.photo              {
+	color           : #000000;
+	font            : 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.photo_box          {
+	color           : #d8d8d8;
+	background-color: #d8d8d8;
+	}
+.photo_tag          {
+	color           : #000000;
+	font            : 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.small,small        {
+	color           : #000000;
+	font            : 8pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+
+
+/*--- EndOfFile ---*/

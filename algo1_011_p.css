@@ -1,0 +1,295 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc01               { /* Common */
+	border          :   0.00pt none #ececec;
+	}
+h4#e35              { /* Contact Us */
+	text-align      : left;
+	position        : absolute;
+	left            : 120.00pt;
+	top             : 165.00pt;
+	width           : 150.00pt;
+	height          :  22.50pt;
+	}
+div#e34             { /* For Suggestions and comp... */
+	text-align      : left;
+	position        : absolute;
+	left            : 120.75pt;
+	top             : 195.00pt;
+	width           : 323.25pt;
+	height          :  15.75pt;
+	}
+address#e33         { /* saqibmubarak@gmail.com */
+	text-align      : left;
+	position        : absolute;
+	left            : 120.00pt;
+	top             : 222.75pt;
+	width           : 126.00pt;
+	height          :  15.75pt;
+	}
+div#e32             { /* Address */
+	text-align      : left;
+	position        : absolute;
+	left            : 120.75pt;
+	top             : 280.50pt;
+	width           :  86.25pt;
+	height          :  20.25pt;
+	}
+address#e31         { /* Aiktc,\ \Panvel, Maharas... */
+	text-align      : left;
+	position        : absolute;
+	left            : 137.25pt;
+	top             : 301.50pt;
+	width           : 152.25pt;
+	height          :  42.75pt;
+	}
+span#e30            { /* algo1011014.gif */
+	clip            : rect(0.00pt,459.00pt,6.75pt,0.00pt);
+	background      : transparent url(algo1011014.gif) no-repeat top left;
+	position        : absolute;
+	left            : 105.00pt;
+	top             : 149.25pt;
+	width           : 459.00pt;
+	height          :   6.75pt;
+	}
+span#e29            { /* algo1011013.gif */
+	clip            : rect(0.00pt,459.00pt,15.00pt,0.00pt);
+	background      : transparent url(algo1011013.gif) no-repeat top left;
+	position        : absolute;
+	left            : 105.00pt;
+	top             :  45.00pt;
+	width           : 459.00pt;
+	height          :  15.00pt;
+	}
+span#e28            { /* algo1011012.jpg */
+	background      : transparent url(algo1011012.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   1.50pt;
+	top             :  60.00pt;
+	width           : 562.50pt;
+	height          :  89.25pt;
+	}
+span#e27            { /* algo1011011.gif */
+	background      : transparent url(algo1011011.gif) no-repeat top left;
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   0.00pt;
+	width           : 103.50pt;
+	height          :  45.00pt;
+	}
+img#e26             { /* algo1011009.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            : 252.00pt;
+	top             :  45.00pt;
+	width           :  32.25pt;
+	height          :  15.00pt;
+	}
+img#e25             { /* algo1011008.jpg */
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  44.25pt;
+	width           : 109.50pt;
+	height          : 112.50pt;
+	}
+form#f24            { /* mailto:your@address.here... */
+	position        : absolute;
+	left            : 117.75pt;
+	top             : 360.00pt;
+	width           : 408.00pt;
+	height          : 128.25pt;
+	}
+fieldset#e24        { /* mailto:your@address.here... */
+	width           : 100%;
+	height          : 100%;
+	padding         :   7.50pt;
+	border-width    :   0px;
+	background-color: transparent;
+	}
+legend#e23          { /* Contact Details */
+	text-align      : left;
+	position        : absolute;
+	left            :   2.25pt;
+	top             :   7.50pt;
+	width           :  90.75pt;
+	height          :  15.75pt;
+	}
+label#e22           { /* Name */
+	text-align      : left;
+	position        : absolute;
+	left            :   9.75pt;
+	top             :  45.00pt;
+	width           :  60.00pt;
+	height          :  15.75pt;
+	}
+input#e21           { /* Text Company Company Nam... */
+	padding         :   1.50pt;
+	position        : absolute;
+	left            :  76.50pt;
+	top             :  44.25pt;
+	width           : 120.75pt;
+	}
+label#e20           { /* City */
+	text-align      : left;
+	position        : absolute;
+	left            :   9.75pt;
+	top             :  60.00pt;
+	width           :  60.75pt;
+	height          :  15.75pt;
+	}
+input#e19           { /* Text City City  */
+	padding         :   1.50pt;
+	position        : absolute;
+	left            :  76.50pt;
+	top             :  59.25pt;
+	width           : 120.75pt;
+	}
+label#e18           { /* State */
+	text-align      : left;
+	position        : absolute;
+	left            :   9.75pt;
+	top             :  82.50pt;
+	width           :  60.75pt;
+	height          :  15.75pt;
+	}
+input#e17           { /* Text State State  */
+	padding         :   1.50pt;
+	position        : absolute;
+	left            :  76.50pt;
+	top             :  81.75pt;
+	width           : 120.75pt;
+	}
+label#e16           { /* Country */
+	text-align      : left;
+	position        : absolute;
+	left            :   9.75pt;
+	top             :  97.50pt;
+	width           :  60.75pt;
+	height          :  15.75pt;
+	}
+select#e15          { /* Combo Box Country Countr... */
+	position        : absolute;
+	left            :  76.50pt;
+	top             :  96.75pt;
+	width           : 126.75pt;
+	}
+label#e14           { /* Phone */
+	text-align      : left;
+	position        : absolute;
+	left            :   9.75pt;
+	top             : 120.00pt;
+	width           :  60.75pt;
+	height          :  15.75pt;
+	}
+input#e13           { /* Text Phone Phone  */
+	padding         :   1.50pt;
+	position        : absolute;
+	left            :  76.50pt;
+	top             : 119.25pt;
+	width           : 120.75pt;
+	}
+label#e12           { /* Comments */
+	text-align      : left;
+	position        : absolute;
+	left            : 204.75pt;
+	top             :  22.50pt;
+	width           : 196.50pt;
+	height          :  15.75pt;
+	}
+textarea#e11        { /* Text Area Comments Comme... */
+	padding         :   1.50pt;
+	position        : absolute;
+	left            : 211.50pt;
+	top             :  44.25pt;
+	width           : 189.75pt;
+	height          :  60.00pt;
+	}
+input#e10           { /* Submit Send Details  */
+	position        : absolute;
+	left            : 210.75pt;
+	top             : 118.50pt;
+	width           :  90.75pt;
+	}
+input#e9            { /* Reset Clear Details  */
+	position        : absolute;
+	left            : 315.75pt;
+	top             : 118.50pt;
+	width           :  90.75pt;
+	}
+h2#e8               { /* Say NO To Drugs */
+	text-align      : right;
+	position        : absolute;
+	left            : 407.25pt;
+	top             : 120.00pt;
+	width           : 146.25pt;
+	height          :  24.00pt;
+	}
+span#e7             { /* algo1011007.jpg */
+	background      : transparent url(algo1011007.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             : 171.00pt;
+	width           : 112.50pt;
+	height          : 114.00pt;
+	}
+img#e6              { /* algo1011006.jpg */
+	position        : absolute;
+	left            : 360.00pt;
+	top             :  45.75pt;
+	width           :  63.00pt;
+	height          :  16.50pt;
+	}
+img#e5              { /* algo1011005.jpg */
+	position        : absolute;
+	left            : 297.75pt;
+	top             :  45.00pt;
+	width           :  57.00pt;
+	height          :  16.50pt;
+	}
+img#e4              { /* algo1011004.jpg */
+	position        : absolute;
+	left            : 443.25pt;
+	top             :  46.50pt;
+	width           :  30.75pt;
+	height          :  16.50pt;
+	}
+img#e3              { /* algo1011003.jpg */
+	position        : absolute;
+	left            : 491.25pt;
+	top             :  46.50pt;
+	width           :  61.50pt;
+	height          :  16.50pt;
+	}
+img#e2              { /* algo1011001.jpg */
+	position        : absolute;
+	left            : 353.25pt;
+	top             : 192.75pt;
+	width           : 177.75pt;
+	height          :  83.25pt;
+	}
+address#e1          { /* mustanity@gmail.com */
+	text-align      : left;
+	position        : absolute;
+	left            : 122.25pt;
+	top             : 241.50pt;
+	width           : 126.00pt;
+	height          :  15.75pt;
+	}
+div#page            { /* Page Holder */
+	background-image: url(back_bus20.gif);
+	position        : relative;
+	width           : 570.00pt;
+	height          : 570.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/
